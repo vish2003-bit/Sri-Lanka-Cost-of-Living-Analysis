@@ -1,5 +1,5 @@
 # 🇱🇰 Sri Lanka Cost of Living Analysis
-![Sri Lanka Cost of Living Analysis](images/banner.png)
+![Sri Lanka Cost of Living Analysis](banner.png)
 
 ## 📊 Project Overview
 
