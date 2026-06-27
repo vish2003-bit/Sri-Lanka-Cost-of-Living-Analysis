@@ -1,4 +1,15 @@
-# 🇱🇰 Sri Lanka Cost of Living Analysis
+<h1 align="center">
+🇱🇰 Sri Lanka Cost of Living Analysis
+</h1>
+
+<p align="center">
+Analysis of Sri Lanka's household expenditure and cost of living using Python, Pandas and Matplotlib.
+</p>
+
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
 ![Sri Lanka Cost of Living Analysis](banner.png)
 
 ## 📊 Project Overview
