@@ -1,4 +1,5 @@
 # 🇱🇰 Sri Lanka Cost of Living Analysis
+![Project Banner](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1200)
 
 ## 📊 Project Overview
 
